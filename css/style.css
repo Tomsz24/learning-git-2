@@ -1,0 +1,15 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  width: 100%;
+  text-align: center;
+}
+span {
+  font-weight: bold;
+}
